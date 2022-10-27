@@ -1,8 +1,2 @@
-Version 1.0
-7zip.7zip
-Notepad++.Notepad++
-Microsoft.Edge
-Google.Chrome
-DominikReichl.KeePass
-AnyDeskSoftwareGmbH.AnyDesk
-WinDirStat.WinDirStat
+Version 1.1
+Adobe.Acrobat.Reader.64-bit
